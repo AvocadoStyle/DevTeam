@@ -25,10 +25,18 @@
 }
 .nav-system-white-cover
 {
-    position:absolute;
+    position:relative;
     background-color: #FEFFDE;
     height: 40px;
     width: 120px;
+    float:left;
+}
+.in-nav
+{
+    background-color: #2a2f24;
+    height: 40px;
+    /* width: 75%; */
+    /* text-align: left; */
 }
 .main-container
 {
@@ -86,7 +94,22 @@
     height: 40px;
     left:80px;
 }
+.button-nav {
+   color: #FEFFDE;
+   font-family: 'Galada', cursive;
+   font-size: 24px;
+   font-weight: 100;
+   background-color: #52734D;
+   text-decoration: none;
+   padding: 0 16px;
+   display:inline-block;
+   height:40px;
+}
 
+.button-nav:hover {
+   background: #1E6F5C;
+   text-decoration: none;
+}
 .t-cld1
 {
     position:absolute;

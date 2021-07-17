@@ -14,14 +14,21 @@
 
 .nav-system
 {
+    position: relative;
     background-color: #52734D;
-    height: 50px;
+    height: 40px;
     width: 100%;
     position: fixed;
     left:0px;
     right:0px;
     top:0px;
-
+}
+.nav-system-white-cover
+{
+    position:absolute;
+    background-color: #FEFFDE;
+    height: 40px;
+    width: 120px;
 }
 .main-container
 {
@@ -61,7 +68,24 @@
     float: right;
     margin-left: 30px;
 }
-
+.img-nav-fb
+{
+    position:absolute;
+    height: 40px;
+    left:0px;
+}
+.img-nav-ig
+{
+    position:absolute;
+    height: 40px;
+    left:40px;
+}
+.img-nav-mail
+{
+    position:absolute;
+    height: 40px;
+    left:80px;
+}
 
 .t-cld1
 {

@@ -26,7 +26,7 @@ h1
 #img-iphone
 {
     max-width: 350px;
-    transform: rotate(16deg);
+    transform: rotate(10deg);
 }
 
 .container-fluid
@@ -63,12 +63,17 @@ h1
     margin: 5% 3% 5% 0;
 }
 
-.color-icons
+.utility-icons1
 {
     color: black;
+    font-size: 3.5rem;
 }
 
 .feature-box
 {
     text-align: center;
+}
+.comes-with-p
+{
+    color: #8f8f8f;
 }

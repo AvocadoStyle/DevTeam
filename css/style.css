@@ -65,8 +65,12 @@ h1
 
 .utility-icons1
 {
-    color: black;
-    font-size: 3.5rem;
+    color: #1B262C;
+    margin-bottom: 1rem;
+}
+.utility-icons1:hover
+{
+    color: #0F4C75;
 }
 
 .feature-box

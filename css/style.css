@@ -19,6 +19,7 @@ h1
 #img-iphone
 {
     max-width: 350px;
+    transform: rotate(16deg);
 }
 
 .container-fluid
@@ -31,7 +32,8 @@ h1
 }
 .navbar
 {
-    padding-bottom: 4.5rem;
+    /* padding-bottom: 4.5rem; */
+    padding: 0 0 4.5rem;
 }
 .navbar-brand
 {
@@ -47,4 +49,9 @@ h1
 {
     font-family: "Montserrat";
     font-size: 1.2rem;
+}
+
+.download-button
+{
+    margin: 5% 3% 5% 0;
 }

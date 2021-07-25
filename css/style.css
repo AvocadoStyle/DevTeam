@@ -1,0 +1,45 @@
+body
+{
+    font-family: "Montserrat";
+}
+h1
+{
+    color: #BBE1FA;
+    /* font-family: 'Rouge Script', cursive; */
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title
+{
+    background-color: #0F4C75;
+}
+#img-iphone
+{
+    max-width: 350px;
+}
+
+.container-fluid
+{
+    padding: 3%  15%;
+}
+.navbar-dark .navbar-brand
+{
+    color: #EEEEEE;
+}
+.navbar
+{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand
+{
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item
+{
+    padding: 0 1rem;
+}

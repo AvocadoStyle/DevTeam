@@ -137,9 +137,13 @@ span
 
 .gap-pic-initit
 {
-    margin-left: 100px;
+    margin-left: 0;
 }
 .gap-pic-initit1
 {
-    margin-left: 200px;
+    margin-left: 40px;
+}
+.gap-pic-initit2
+{
+    margin-left: 80px;
 }
